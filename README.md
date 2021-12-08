@@ -1,1 +1,1 @@
-# machine_leaning_tibame
+# machine_leaning_teaching_material
